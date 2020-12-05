@@ -154,4 +154,4 @@ FF FF FF FF 00 00 00 00 00 00 00 00 00 00 00 00
 最后, 点击`Edit->Patch program->Apply patches to input file...`并确定, 即可
   
 ***
-以上ᕕ( ᐛ )ᕗ
+	以上ᕕ( ᐛ )ᕗ
