@@ -2,7 +2,7 @@
 更新自 [nishuoshenme/FGOFPSUnlocker](https://github.com/nishuoshenme/FGOFPSUnlocker)  
 code中含有基于`日服2.24.1`制作的`libunity.so`文件, 解决宝具卡白屏问题  
 ## armeabi-v7a
-使用`IDA Pro`打开`libunity.so`, 等待分析结束后按下`Shift + F12`打开字符串列表
+使用`IDA Pro`打开`libunity.so`, 等待分析结束后按下`Shift + F12`打开字符串列表  
 ![open](https://github.com/tsuasahi/FGOFPSUnlocker/raw/master/imgs/1.png)  
 按下`Ctrl + F`搜索  
 ```
@@ -76,7 +76,7 @@ FF FF FF FF 00 00 00 00 00 00 00 00 A0 36 CE 00
 最后, 点击`Edit->Patch program->Apply patches to input file...`并确定, 即可
   
 ## arm64-v8a
-使用`ida pro`打开`libunity.so`, 等待分析结束后按下`Shift + F12`打开字符串列表
+使用`ida pro`打开`libunity.so`, 等待分析结束后按下`Shift + F12`打开字符串列表  
 ![open](https://github.com/tsuasahi/FGOFPSUnlocker/raw/master/imgs/1.png)  
   
 按下`Ctrl + F`搜索
